@@ -2,12 +2,6 @@
 <h3 align="center">Backend-focused Full Stack Developer | Final-Year IT Student</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/harshgaikwaddev" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:harshgaikwad0517@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
   <img src="https://img.shields.io/badge/Location-Vadodara,%20India-informational?style=for-the-badge" />
 </p>
 
@@ -29,6 +23,7 @@
 ### 🛠️ Tech Stack
 
 **Languages**
+
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
@@ -38,6 +33,7 @@
 </p>
 
 **Backend & APIs**
+
 <p>
   <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" />
   <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
@@ -47,6 +43,7 @@
 </p>
 
 **Databases**
+
 <p>
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
@@ -54,6 +51,7 @@
 </p>
 
 **Frontend (Supporting)**
+
 <p>
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
   <img src="https://img.shields.io/badge/Jinja2-B41717?style=flat-square&logo=jinja&logoColor=white" />
@@ -62,6 +60,7 @@
 </p>
 
 **Tools & Platforms**
+
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
@@ -74,34 +73,49 @@
 ### 📌 Featured Projects
 
 #### 🔹 [TrueHire — Job Simulation Platform](https://github.com/harshgaikwaddev)
-*React · Node.js · Express.js · MongoDB · JWT · Nov 2025 – Present*
+
+> A full-stack job simulation platform designed to help students practice coding through practical job-oriented tasks and provide recruiters with a structured way to evaluate technical skills.
+
+*React · Node.js · Express.js · MongoDB · JWT*
+
+*Nov 2025 – Sep 2026*
+
 - Full-stack job simulation platform with a React/Vite frontend and Node.js/Express.js backend
 - Secure authentication using JWT, bcrypt hashing, Bearer tokens, 24-hour expiration, and role-based access control for students and recruiters
 - REST API endpoints for registration, login, authentication, and protected profile operations with request validation and standardized HTTP status codes
 - MongoDB data models with Mongoose schema validation, unique email constraints, and middleware-based authorization
 
-#### 🔹 [Shopping Guide — E-Commerce Web Application](https://github.com/harshgaikwaddev)
-*Python · Flask · MongoDB · HTML · CSS · Jinja2 · Jul 2023 – Feb 2024*
-- Full-stack e-commerce app for local product discovery and shop comparison
-- Role-based authentication with secure password hashing for customers and shop owners
-- Location-aware product discovery using the Haversine formula to find nearby shops and inventory
-- CRUD-based inventory management for shop owners and search/filter/sort by price, availability, and proximity
+#### 🔹 [Shopping Guide — Local Product Discovery Platform](https://github.com/harshgaikwaddev)
+
+> A local-first product discovery platform that helps customers find products available at nearby shops, compare prices and stock, and choose where to purchase in person.
+
+*Python · Flask · MongoDB · HTML · CSS · Jinja2*
+
+*Jul 2023 – Feb 2024*
+
+- Local-first platform for discovering products available at nearby shops
+- Customers can search inventory, compare prices and stock, and filter products by distance
+- Location-aware product discovery using the Haversine formula to identify nearby shops
+- Shop owners can register their stores and manage product information, pricing, and stock through a simple dashboard
+- Designed for **local, offline purchasing** — customers discover products through the platform and visit the physical shop to buy
 
 ---
 
 ### 🎓 Education
 
-**Bachelor of Technology, Information Technology** — Parul University, Waghodia, Gujarat *(Jun 2024 – May 2027)*
-**Diploma in Information Technology** — Parul University, Waghodia, Gujarat *(Jun 2021 – May 2024)*
+**Bachelor of Technology, Information Technology** — Parul University, Waghodia, Gujarat  
+*Jun 2024 – May 2027*
+
+**Diploma in Information Technology** — Parul University, Waghodia, Gujarat  
+*Jun 2021 – May 2024*
 
 ---
 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=harshgaikwaddev&theme=default&hide_border=true" alt="Harsh's GitHub streak" height="165"/>
+  <img src="https://streak-stats.demolab.com/?user=harshgaikwaddev&theme=default&hide_border=true" alt="Harsh's GitHub streak" height="165" />
 </p>
-
 
 ---
 
