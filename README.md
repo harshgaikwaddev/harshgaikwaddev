@@ -99,13 +99,9 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=harshgaikwaddev&show_icons=true&theme=default&hide_border=true&cache_seconds=1800" alt="Harsh's GitHub stats" height="165"/>
   <img src="https://streak-stats.demolab.com/?user=harshgaikwaddev&theme=default&hide_border=true" alt="Harsh's GitHub streak" height="165"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshgaikwaddev&layout=compact&theme=default&hide_border=true&cache_seconds=1800" alt="Top Languages" height="165"/>
-</p>
 
 ---
 
