@@ -8,31 +8,13 @@
 
 Hey! I'm Harsh Gaikwad, a final-year B.Tech Information Technology student at Parul University, graduating in May 2027.
 
-I'm a backend-focused full Stack developer who enjoys building practical web applications and understanding how things work behind the scenes. I work with **Node.js, Express.js, Python, Flask, and MongoDB**, with a focus on designing REST APIs, implementing authentication, and structuring backend logic.
+I'm a Backend-focused Full Stack Developer who enjoys building practical web applications and understanding how things work behind the scenes. I work with **Node.js, Express.js, Python, Flask, and MongoDB**, with a focus on designing REST APIs, implementing authentication, and structuring backend logic.
 
 Through projects like **TrueHire** and **Shopping Guide**, I'm applying what I learn to build functional applications that solve real-world problems. I believe the best way to improve as a developer is to build, experiment, debug, and continuously learn.
 
 Currently, I'm strengthening my backend development skills, learning FastAPI and PostgreSQL, and improving my problem-solving and data structures and algorithms skills as I work toward becoming a **Software Development Engineer (SDE)**.
 
 I'm open to **3–6 month internships** where I can contribute to real projects, learn from experienced developers, and grow as an engineer.
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Open%20to-Internships-2EA44F?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Location-Vadodara,%20India-informational?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Graduating-May%202027-8A2BE2?style=for-the-badge" />
-</p>
-
-<p align="center">
-  <a href="https://harshgaikwaddev.vercel.app">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/harshgaikwaddev">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:harshgaikwad0517@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
 
 ---
 
