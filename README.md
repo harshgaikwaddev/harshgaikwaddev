@@ -1,11 +1,20 @@
 <p align="center">
-  <img src="./assets/banner.svg" alt="Harsh Gaikwad, Backend Developer" width="100%" />
+  <img src="./assets/banner.svg" alt="Harsh Gaikwad, Backend-focused Full Stack Developer" width="100%" />
 </p>
 
-<p align="center">
-  Final-year B.Tech IT student who builds secure, well-structured REST APIs.<br/>
-  <b>Looking for a backend developer internship (3–6 months).</b>
-</p>
+---
+
+## About Me
+
+Hey! I'm Harsh Gaikwad, a final-year B.Tech Information Technology student at Parul University, graduating in May 2027.
+
+I'm a backend-focused full Stack developer who enjoys building practical web applications and understanding how things work behind the scenes. I work with **Node.js, Express.js, Python, Flask, and MongoDB**, with a focus on designing REST APIs, implementing authentication, and structuring backend logic.
+
+Through projects like **TrueHire** and **Shopping Guide**, I'm applying what I learn to build functional applications that solve real-world problems. I believe the best way to improve as a developer is to build, experiment, debug, and continuously learn.
+
+Currently, I'm strengthening my backend development skills, learning FastAPI and PostgreSQL, and improving my problem-solving and data structures and algorithms skills as I work toward becoming a **Software Development Engineer (SDE)**.
+
+I'm open to **3–6 month internships** where I can contribute to real projects, learn from experienced developers, and grow as an engineer.
 
 <p align="center">
   <img src="https://img.shields.io/badge/Open%20to-Internships-2EA44F?style=for-the-badge" />
@@ -126,7 +135,9 @@
         <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" />
       </p>
       <p>
-        <a href="https://truehire-frontend.onrender.com"><img src="https://img.shields.io/badge/Live%20Demo-2EA44F?style=for-the-badge" /></a>
+        <a href="https://truehire-frontend.onrender.com">
+          <img src="https://img.shields.io/badge/Live%20Demo-2EA44F?style=for-the-badge" />
+        </a>
       </p>
       <sub>Hosted on a free Render instance, so the first load can take up to a minute.</sub>
     </td>
@@ -146,8 +157,12 @@
         <img src="https://img.shields.io/badge/Jinja2-B41717?style=flat-square&logo=jinja&logoColor=white" />
       </p>
       <p>
-        <a href="https://shopping-guide-beta.vercel.app"><img src="https://img.shields.io/badge/Live%20Demo-2EA44F?style=for-the-badge" /></a>
-        <a href="https://github.com/harshgaikwaddev/shopping-guide"><img src="https://img.shields.io/badge/Source%20Code-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+        <a href="https://shopping-guide-beta.vercel.app">
+          <img src="https://img.shields.io/badge/Live%20Demo-2EA44F?style=for-the-badge" />
+        </a>
+        <a href="https://github.com/harshgaikwaddev/shopping-guide">
+          <img src="https://img.shields.io/badge/Source%20Code-181717?style=for-the-badge&logo=github&logoColor=white" />
+        </a>
       </p>
     </td>
   </tr>
@@ -177,7 +192,7 @@
 
 ## Let's Connect
 
-I am looking for a backend developer internship. If you are hiring, or want to collaborate on something, reach me here:
+I am looking for a Backend-focused Full Stack Developer internship. If you are hiring, or want to collaborate on something, reach me here:
 
 <p>
   <a href="https://harshgaikwaddev.vercel.app">
