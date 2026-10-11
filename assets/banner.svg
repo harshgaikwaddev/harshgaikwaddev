@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="280" viewBox="0 0 1000 280" role="img" aria-label="Harsh Gaikwad, Backend Developer">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0b1220"/>
+      <stop offset="0.55" stop-color="#0f1b33"/>
+      <stop offset="1" stop-color="#0b3a4a"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#38bdf8"/>
+      <stop offset="1" stop-color="#2dd4bf"/>
+    </linearGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" fill="none" stroke="#ffffff" stroke-opacity="0.045" stroke-width="1"/>
+    </pattern>
+    <style>
+      .name { font: 800 62px 'Segoe UI', Helvetica, Arial, sans-serif; fill: #ffffff; letter-spacing: 1px; }
+      .role { font: 600 24px 'Segoe UI', Helvetica, Arial, sans-serif; fill: url(#accent); letter-spacing: 3px; }
+      .mono { font: 500 20px 'Consolas', 'Courier New', monospace; fill: #cbd5e1; }
+      .deco { font: 700 150px 'Consolas', 'Courier New', monospace; fill: #38bdf8; fill-opacity: 0.07; }
+      .line { opacity: 0; animation: cycle 12s infinite; }
+      .l1 { animation-delay: 0s; }
+      .l2 { animation-delay: 3s; }
+      .l3 { animation-delay: 6s; }
+      .l4 { animation-delay: 9s; }
+      @keyframes cycle {
+        0%   { opacity: 0; transform: translateY(8px); }
+        4%   { opacity: 1; transform: translateY(0); }
+        22%  { opacity: 1; transform: translateY(0); }
+        26%  { opacity: 0; transform: translateY(-8px); }
+        100% { opacity: 0; }
+      }
+      .glow { animation: pulse 5s ease-in-out infinite; }
+      @keyframes pulse { 0%,100% { opacity: .35; } 50% { opacity: .6; } }
+    </style>
+  </defs>
+
+  <rect width="1000" height="280" rx="14" fill="url(#bg)"/>
+  <rect width="1000" height="280" rx="14" fill="url(#grid)"/>
+  <circle class="glow" cx="900" cy="40" r="170" fill="#2dd4bf" fill-opacity="0.18"/>
+  <circle class="glow" cx="60" cy="260" r="140" fill="#38bdf8" fill-opacity="0.14"/>
+
+  <text class="deco" x="640" y="215">{ }</text>
+  <text class="deco" x="760" y="120">&lt;/&gt;</text>
+
+  <text class="role" x="60" y="82">BACKEND DEVELOPER</text>
+  <text class="name" x="58" y="152">Harsh Gaikwad</text>
+  <rect x="60" y="168" width="120" height="4" rx="2" fill="url(#accent)"/>
+
+  <g transform="translate(60,215)">
+    <text class="mono line l1" x="0" y="0"><tspan fill="#2dd4bf">&gt;</tspan> Python  ·  Flask  ·  FastAPI</text>
+    <text class="mono line l2" x="0" y="0"><tspan fill="#2dd4bf">&gt;</tspan> Node.js  ·  Express  ·  REST APIs</text>
+    <text class="mono line l3" x="0" y="0"><tspan fill="#2dd4bf">&gt;</tspan> JWT  ·  Role-Based Access Control</text>
+    <text class="mono line l4" x="0" y="0"><tspan fill="#2dd4bf">&gt;</tspan> MongoDB  ·  PostgreSQL</text>
+  </g>
+</svg>
