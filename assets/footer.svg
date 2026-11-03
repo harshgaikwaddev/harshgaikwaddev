@@ -1,24 +1,65 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="90" viewBox="0 0 1000 90" role="img" aria-label="Thanks for visiting">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 180" width="1200" height="180" role="img" aria-label="Thanks for visiting. Let's build something together.">
   <defs>
-    <linearGradient id="g" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0" stop-color="#0b1220"/>
-      <stop offset="0.6" stop-color="#0f1b33"/>
-      <stop offset="1" stop-color="#0b3a4a"/>
+    <linearGradient id="fbg" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#0d1117"/>
+      <stop offset="55%" stop-color="#111a2e"/>
+      <stop offset="100%" stop-color="#0b2a2e"/>
     </linearGradient>
-    <linearGradient id="a" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0" stop-color="#38bdf8"/>
-      <stop offset="1" stop-color="#2dd4bf"/>
+    <linearGradient id="fAccent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#61dafb"/>
+      <stop offset="50%" stop-color="#4fd1a5"/>
+      <stop offset="100%" stop-color="#a78bfa"/>
     </linearGradient>
-    <style>
-      .t { font: 600 18px 'Segoe UI', Helvetica, Arial, sans-serif; fill: #e2e8f0; letter-spacing: 1px; }
-      .w { animation: slide 6s ease-in-out infinite alternate; }
-      @keyframes slide { from { transform: translateX(-14px); } to { transform: translateX(14px); } }
-    </style>
+    <clipPath id="frame"><rect width="1200" height="180"/></clipPath>
   </defs>
-  <rect width="1000" height="90" rx="14" fill="url(#g)"/>
-  <g class="w" opacity="0.55">
-    <path d="M-40 80 Q 110 52 260 72 T 560 70 T 860 68 T 1060 72" fill="none" stroke="url(#a)" stroke-width="2"/>
-    <path d="M-40 86 Q 130 64 280 80 T 580 77 T 880 79 T 1060 82" fill="none" stroke="url(#a)" stroke-width="1.2" opacity="0.6"/>
+
+  <g clip-path="url(#frame)">
+    <rect width="1200" height="180" fill="url(#fbg)"/>
+
+    <!-- waves -->
+    <g>
+      <path d="M0 120 Q150 90 300 120 T600 120 T900 120 T1200 120 T1500 120 T1800 120 T2100 120 T2400 120 V180 H0Z" fill="#61dafb" fill-opacity="0.10">
+        <animateTransform attributeName="transform" type="translate" values="0 0;-1200 0" dur="14s" repeatCount="indefinite"/>
+      </path>
+      <path d="M0 135 Q150 105 300 135 T600 135 T900 135 T1200 135 T1500 135 T1800 135 T2100 135 T2400 135 V180 H0Z" fill="#4fd1a5" fill-opacity="0.12">
+        <animateTransform attributeName="transform" type="translate" values="-1200 0;0 0" dur="10s" repeatCount="indefinite"/>
+      </path>
+      <path d="M0 150 Q150 125 300 150 T600 150 T900 150 T1200 150 T1500 150 T1800 150 T2100 150 T2400 150 V180 H0Z" fill="#a78bfa" fill-opacity="0.16">
+        <animateTransform attributeName="transform" type="translate" values="0 0;-1200 0" dur="7s" repeatCount="indefinite"/>
+      </path>
+    </g>
+
+    <!-- rising particles -->
+    <g fill="#61dafb">
+      <circle cx="160" cy="150" r="3" opacity="0">
+        <animate attributeName="cy" values="150;30" dur="5s" repeatCount="indefinite"/>
+        <animate attributeName="opacity" values="0;0.7;0" dur="5s" repeatCount="indefinite"/>
+      </circle>
+      <circle cx="420" cy="160" r="2.5" opacity="0" fill="#4fd1a5">
+        <animate attributeName="cy" values="160;40" dur="6s" begin="1s" repeatCount="indefinite"/>
+        <animate attributeName="opacity" values="0;0.7;0" dur="6s" begin="1s" repeatCount="indefinite"/>
+      </circle>
+      <circle cx="800" cy="155" r="3" opacity="0" fill="#a78bfa">
+        <animate attributeName="cy" values="155;35" dur="5.5s" begin="2s" repeatCount="indefinite"/>
+        <animate attributeName="opacity" values="0;0.7;0" dur="5.5s" begin="2s" repeatCount="indefinite"/>
+      </circle>
+      <circle cx="1040" cy="160" r="2.5" opacity="0">
+        <animate attributeName="cy" values="160;45" dur="6.5s" begin="0.5s" repeatCount="indefinite"/>
+        <animate attributeName="opacity" values="0;0.7;0" dur="6.5s" begin="0.5s" repeatCount="indefinite"/>
+      </circle>
+    </g>
+
+    <!-- text -->
+    <text x="600" y="72" text-anchor="middle" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="34" font-weight="700" fill="url(#fAccent)">
+      Thanks for visiting
+      <animate attributeName="opacity" values="0.75;1;0.75" dur="4s" repeatCount="indefinite"/>
+    </text>
+    <text x="600" y="106" text-anchor="middle" font-family="Consolas, 'Courier New', monospace" font-size="19" fill="#8b949e">
+      Let's build something together.
+    </text>
+    <text x="600" y="134" text-anchor="middle" font-family="Consolas, 'Courier New', monospace" font-size="16" fill="#61dafb">
+      &lt;FullStack /&gt;
+      <animate attributeName="opacity" values="1;0.3;1" dur="2.4s" repeatCount="indefinite"/>
+    </text>
   </g>
-  <text class="t" x="500" y="36" text-anchor="middle">Thanks for visiting. Let's build something reliable.</text>
 </svg>
