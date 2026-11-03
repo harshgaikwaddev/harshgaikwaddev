@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/banner.svg" alt="Harsh Gaikwad, Backend-focused Full Stack Developer" width="100%" />
+  <img src="./assets/banner.svg" alt="Harsh Gaikwad, Full-Stack Developer" width="100%" />
 </p>
 
 ---
@@ -8,13 +8,13 @@
 
 Hey! I'm Harsh Gaikwad, a final-year B.Tech Information Technology student at Parul University, graduating in May 2027.
 
-I'm a Backend-focused Full Stack Developer who enjoys building practical web applications and understanding how things work behind the scenes. I work with **Node.js, Express.js, Python, Flask, and MongoDB**, with a focus on designing REST APIs, implementing authentication, and structuring backend logic.
+I'm a Full-Stack Developer who enjoys building practical web applications end to end, from the React interface to the REST API and database behind it. I work with the **MERN stack (MongoDB, Express.js, React, Node.js)** and **Python (Flask, FastAPI)**, with a focus on designing REST APIs, implementing authentication, and structuring clean backend and frontend logic.
 
-Through projects like **TrueHire** and **Shopping Guide**, I'm applying what I learn to build functional applications that solve real-world problems. I believe the best way to improve as a developer is to build, experiment, debug, and continuously learn.
+I recently completed a **Full Stack Developer internship at Codec Technologies**, where I built a multi-vendor e-commerce SaaS platform using React with Redux Toolkit, Node.js and Express.js, MongoDB, Redis caching, and Socket.IO for real-time updates. Alongside that, projects like **TrueHire** and **Shopping Guide** let me apply what I learn to build functional applications that solve real-world problems. I believe the best way to improve as a developer is to build, experiment, debug, and continuously learn.
 
-Currently, I'm strengthening my backend development skills, learning FastAPI and PostgreSQL, and improving my problem-solving and data structures and algorithms skills as I work toward becoming a **Software Development Engineer (SDE)**.
+Currently, I'm improving my problem-solving and data structures and algorithms skills as I work toward becoming a **Software Development Engineer (SDE)**.
 
-I'm open to **3–6 month internships** where I can contribute to real projects, learn from experienced developers, and grow as an engineer.
+I'm open to **Full-Stack or Backend Developer roles and 3–6 month internships** where I can contribute to real projects, learn from experienced developers, and grow as an engineer.
 
 ---
 
@@ -22,6 +22,10 @@ I'm open to **3–6 month internships** where I can contribute to real projects,
 
 <table>
   <tr>
+    <td width="25%" valign="top" align="center">
+      <h3>🎨<br/>Frontend</h3>
+      <sub>React interfaces with Redux Toolkit state management, Tailwind CSS, and Material UI</sub>
+    </td>
     <td width="25%" valign="top" align="center">
       <h3>🔌<br/>API Design</h3>
       <sub>REST endpoints with request validation and consistent HTTP status codes</sub>
@@ -31,12 +35,8 @@ I'm open to **3–6 month internships** where I can contribute to real projects,
       <sub>JWT, bcrypt password hashing, role-based access control</sub>
     </td>
     <td width="25%" valign="top" align="center">
-      <h3>🗄️<br/>Data Modeling</h3>
-      <sub>MongoDB and Mongoose schemas, PostgreSQL and SQL</sub>
-    </td>
-    <td width="25%" valign="top" align="center">
-      <h3>🚀<br/>Shipping</h3>
-      <sub>Live deployments on Render and Vercel, version control with Git</sub>
+      <h3>🗄️<br/>Data & Real-Time</h3>
+      <sub>MongoDB, Mongoose, PostgreSQL, Redis caching, and Socket.IO</sub>
     </td>
   </tr>
 </table>
@@ -48,38 +48,41 @@ I'm open to **3–6 month internships** where I can contribute to real projects,
 **Languages**
 
 <p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 </p>
 
+**Frontend**
+
+<p>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Redux%20Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/Material--UI-007FFF?style=for-the-badge&logo=mui&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jinja2-B41717?style=for-the-badge&logo=jinja&logoColor=white" />
+</p>
+
 **Backend & APIs**
 
 <p>
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socketdotio&logoColor=white" />
   <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
 </p>
 
 **Databases**
 
 <p>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white" />
-</p>
-
-**Frontend (Supporting)**
-
-<p>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Jinja2-B41717?style=for-the-badge&logo=jinja&logoColor=white" />
-  <img src="https://img.shields.io/badge/Material--UI-007FFF?style=for-the-badge&logo=mui&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
 </p>
 
 **Tools & Platforms**
@@ -95,6 +98,34 @@ I'm open to **3–6 month internships** where I can contribute to real projects,
 
 ---
 
+## Experience
+
+<table>
+  <tr>
+    <td valign="top">
+      <h3>Full Stack Developer Intern, Codec Technologies</h3>
+      <p><sub>Oct 2026 – Nov 2026 · India (Hybrid)</sub></p>
+      <ul>
+        <li>Built a multi-vendor e-commerce SaaS platform using the MERN stack: a React frontend with Redux Toolkit and a Node.js and Express.js REST API backed by MongoDB</li>
+        <li>Integrated Socket.IO to deliver real-time updates between the server and connected clients</li>
+        <li>Used Redis to cache frequently accessed data and reduce database load</li>
+        <li>Completed weekly project modules and training tasks, assessed in weekly supervisor reviews</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top">
+      <h3>Graphic Design Intern, Advance Electronic System</h3>
+      <p><sub>Apr 2023 – Jun 2023 · Vadodara, Gujarat, India</sub></p>
+      <ul>
+        <li>Produced marketing graphics and branded layouts using Photoshop, Illustrator, Figma, and Canva</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+---
+
 ## Featured Projects
 
 <table>
@@ -104,6 +135,7 @@ I'm open to **3–6 month internships** where I can contribute to real projects,
       <p><b>Job simulation platform</b></p>
       <p>Students practice coding through job-style tasks, and recruiters evaluate their technical skills.</p>
       <ul>
+        <li>React/Vite frontend with an Express REST API, deployed on Render</li>
         <li>JWT auth with bcrypt hashing and 24-hour token expiry</li>
         <li>Role-based access for students and recruiters</li>
         <li>Validated REST endpoints with consistent status codes</li>
@@ -130,6 +162,7 @@ I'm open to **3–6 month internships** where I can contribute to real projects,
       <ul>
         <li>Location-based search using the Haversine formula</li>
         <li>Distance filter with price and stock comparison</li>
+        <li>Product and category search, shop detail pages, and saved items</li>
         <li>Shop-owner dashboard to manage products, pricing, and stock</li>
       </ul>
       <p>
@@ -155,8 +188,6 @@ I'm open to **3–6 month internships** where I can contribute to real projects,
 ## Currently Learning
 
 <p>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/API%20Testing-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
   <img src="https://img.shields.io/badge/Data%20Structures-%26%20Algorithms-555555?style=for-the-badge" />
 </p>
@@ -174,7 +205,7 @@ I'm open to **3–6 month internships** where I can contribute to real projects,
 
 ## Let's Connect
 
-I am looking for a Backend-focused Full Stack Developer internship. If you are hiring, or want to collaborate on something, reach me here:
+I am looking for a Full-Stack or Backend Developer role or internship. If you are hiring, or want to collaborate on something, reach me here:
 
 <p>
   <a href="https://harshgaikwaddev.vercel.app">
